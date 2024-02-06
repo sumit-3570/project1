@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+main {
+    width: 700px;
+    height: 400px;
+    
+    margin: 20px auto;
+    box-shadow: 0px 0px 2px gray;
+}
+
